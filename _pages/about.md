@@ -40,4 +40,4 @@ At the moment, my research has two main connected directions:
 - commutator-driven stability bounds for periodically switched systems;
 - deterministic ordering-error bounds for layered attention dynamics.
 
-This website collects my papers, projects, and research directions.
+This website showcases my papers, projects, and research directions.
