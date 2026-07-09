@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student at the University of Maryland, affiliated with the Institute for Systems Research.
+I am a PhD student at the University of Maryland, affiliated with the Institute for Systems Research, where I work with [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra).
 
 My work studies the gap between **finite ordered dynamics** and the **effective continuous descriptions** used to analyze them. I am especially interested in systems where noncommutativity is not a small technical nuisance, but the main structure: switched control systems, splitting and product-formula errors, and layered attention dynamics.
 
@@ -35,4 +35,4 @@ At the moment, my research has two main connected directions:
 - commutator-driven stability bounds for periodically switched systems;
 - deterministic ordering-error bounds for layered attention dynamics.
 
-This website collects my papers, notes, and research directions.
+This website collects my papers, projects, and research directions.
