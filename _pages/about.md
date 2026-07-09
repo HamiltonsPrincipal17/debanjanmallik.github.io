@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: finite ordered dynamics, effective descriptions, and noncommutativity
+subtitle:
 
 profile:
   align: right
-  image:
+  image: profile.jpeg
   image_circular: false
   more_info: >
     <p>PhD student</p>
@@ -15,6 +15,7 @@ profile:
 
 selected_papers: true
 social: true
+
 announcements:
   enabled: true
   scrollable: false
@@ -23,6 +24,10 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+# Debanjan Mallik
+
+*Finite ordered dynamics, effective descriptions, and noncommutativity.*
 
 I am a PhD student at the University of Maryland, affiliated with the Institute for Systems Research, where I work with [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra).
 
