@@ -13,7 +13,7 @@ profile:
     <p>Institute&nbsp;for&nbsp;Systems&nbsp;Research</p>
     <p>University of Maryland</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
