@@ -29,7 +29,7 @@ latest_posts:
 
 *Finite ordered dynamics, effective descriptions, and noncommutativity.*
 
-I am a PhD student at the University of Maryland, affiliated with the Institute for Systems Research, where I work with [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra).
+I am a PhD student at the [University of Maryland](https://umd.edu), where I work with [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra).
 
 My work studies the gap between **finite ordered dynamics** and the **effective continuous descriptions** used to analyze them. I am especially interested in systems where noncommutativity is not a small technical nuisance, but the main structure: switched control systems, splitting and product-formula errors, and layered attention dynamics.
 
