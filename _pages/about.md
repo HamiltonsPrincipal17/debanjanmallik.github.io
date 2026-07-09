@@ -27,11 +27,11 @@ latest_posts:
 
 I am a PhD student at the University of Maryland, affiliated with the Institute for Systems Research.
 
-My work studies the gap between **finite ordered dynamics** and the **effective continuous descriptions** used to analyze them. I am especially interested in systems where noncommutativity is not a small technical nuisance, but the main structure: switched control systems, splitting and product-formula errors, layered attention dynamics etc.
+My work studies the gap between **finite ordered dynamics** and the **effective continuous descriptions** used to analyze them. I am especially interested in systems where noncommutativity is not a small technical nuisance, but the main structure: switched control systems, splitting and product-formula errors, and layered attention dynamics.
 
 A recurring theme in my work is that averaged or effective dynamics can be mathematically useful, but their fidelity depends on explicit geometric and commutator-driven correction terms.
 
-At the moment, my research has two connected directions:
+At the moment, my research has two main connected directions:
 
 - commutator-driven stability bounds for periodically switched systems;
 - deterministic ordering-error bounds for layered attention dynamics.
