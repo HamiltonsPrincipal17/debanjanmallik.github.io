@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>PhD student</p>
-    <p>Institute&nbsp;for&nbsp;Systems&nbsp;Research</p>
+    <p>Electrical&nbsp;and&nbsp;Computer&nbsp;Engineering</p>
     <p>University of Maryland</p>
 
 selected_papers: false
