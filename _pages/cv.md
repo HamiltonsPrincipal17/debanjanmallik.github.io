@@ -21,7 +21,7 @@ Bachelor of Engineering, Electronics and Telecommunication Engineering, 2020–2
 
 **Deterministic Gap Bounds for Layered Attention**  
 *June 2026–present*  
-Finite-depth deterministic bounds for layered attention dynamics, with emphasis on true-versus-effective dynamics and ordering errors.
+Finite-depth deterministic bounds for layered attention dynamics, with emphasis on true-versus-effective description and ordering errors.
 
 **Commutator-Driven Stability Bounds for Periodic Switching**  
 *September 2025–May 2026*  
