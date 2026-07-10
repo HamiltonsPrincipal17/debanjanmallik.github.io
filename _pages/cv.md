@@ -10,7 +10,7 @@ nav_order: 5
 
 **University of Maryland, College Park**  
 Ph.D. student, Electrical and Computer Engineering, 2024–present  
-Advisor: Prof. Nikhil Chopra
+Advisor: [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra)
 
 **Jadavpur University**  
 Bachelor of Engineering, Electronics and Telecommunication Engineering, 2020–2024
@@ -29,11 +29,11 @@ Stability guarantees for periodically switched systems using averaged Lyapunov d
 
 **Expository Summer Work on Lie–Poisson Dynamics and the Exponential Map**  
 *May 2025–August 2025*  
-Summer work supervised by P. S. Krishnaprasad on structure-preserving integration for Lie–Poisson systems and formulas for the differential of the exponential map.
+Summer work supervised by [P. S. Krishnaprasad](https://ece.umd.edu/clark/faculty/423/P-S-Krishnaprasad) on structure-preserving integration for Lie–Poisson systems and formulas for the differential of the exponential map.
 
 **Spectrahedral Relaxations for Attitude Estimation with Convex MPC Control**  
-*December 2025*  
-Convex optimization course project on Wahba’s problem, spectrahedral relaxations of \(\mathrm{SO}(3)\), and bounded-torque MPC.
+*November 2025-December 2025*  
+Convex optimization course project on Wahba’s problem, spectrahedral relaxations of \(\operatorname{conv}(\mathrm{SO}(3))\), and bounded-torque MPC.
 
 ---
 
@@ -47,7 +47,7 @@ See the [publications](/publications/) page.
 
 **Languages:** Python, C, MATLAB, Julia
 
-**Libraries and tools:** NumPy, SciPy, CVXPY, Pandas, PyTorch, Gymnasium, Matplotlib, JuMP, CasADi, PennyLane
+**Libraries and tools:** NumPy, SciPy, CVXPY, Matplotlib, JuMP, COSMO
 
 ---
 
